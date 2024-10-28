@@ -1,2 +1,3 @@
 # MyFirstTest
-this is a samole test 
+this is a sample test 
+and check out what is done
